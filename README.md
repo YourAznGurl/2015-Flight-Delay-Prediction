@@ -141,7 +141,7 @@ Created by Ena Tarumi (垂水 映那).
 
 If you use, share, or adapt this project, please include the following attribution:
 
-“Based on the Meaning Translator by Ena Tarumi (垂水 映那) — licensed under CC BY-NC 4.0.”
+“2015-Flight-Delay-Prediction by Ena Tarumi (垂水 映那) — licensed under CC BY-NC 4.0.”
 
 This project is licensed under the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) License.
 
