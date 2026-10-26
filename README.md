@@ -71,7 +71,7 @@ One-hot encoded categorical features:
 
 
 ## Results:
-- Accuracy: 83.8% (can be anything, since its adjusted based on flight time/miles/airline
+- Accuracy: 77.8% (can be anything, since its adjusted based on flight time/miles/airline
 - Model performs well at predicting on-time flights
 - Slight difficulty detecting delayed flights due to class imbalance
 
